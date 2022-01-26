@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jencyraj
-- 👀 Always, anytime anywhere.........Backend Developer
+- 👀 Always, anytime anywhere.........Software Developer
 - 🌱 I’m currently learning GCP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  : jencyraj91@gmail.com
