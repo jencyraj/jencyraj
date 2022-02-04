@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jencyraj
-- 👀 Always, anytime anywhere.........Software Developer
-- 🌱 I’m currently learning GCP
+- 👀 Always, anytime, anywhere.........Software Developer
+- 💞️ Love debugging
+- 🌱 Certified Associate Google Cloud Engineer 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  : jencyraj91@gmail.com
 
