@@ -3,7 +3,7 @@
 - 💞️ Love debugging
 - 🌱 Certified Associate Google Cloud Engineer 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  : jencyraj91@gmail.com
+- 📫 How to reach out with me  : jencyraj91@gmail.com
 
 <!---
 jencyraj/jencyraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
